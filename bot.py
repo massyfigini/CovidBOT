@@ -55,7 +55,7 @@ for index, row in df.iterrows():
         # filter only covid tweets and exclude retweets
         if not(tweetText.startswith('rt')) and (tweetText.find(text1) + 
                                                 tweetText.find(text2) + 
-                                                tweetText.find(text3)) > -1:
+                                                tweetText.find(text3)) > -3:
                 api.retweet(i)
 
 # write output with last tweet

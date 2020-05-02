@@ -1,3 +1,3 @@
 # CovidBOT - Twitter BOT for COVID-19 emergency
-Retweet all the tweets that contain the words "covid", "coronavirus" and "lockdown" wrote by official Italian authorities accounts, you can find the account list in "Account.csv" file.  
-You can see and follow the BOT [here](https://twitter.com/COVIDbot_ITA)
+This Twitter BOT automatically retweets all the COVID-19 related tweets by Italian authorities, so you can find all the official news and decisions about covid in Italy in one Twitter page.
+Follow the BOT here: https://twitter.com/COVIDbot_ITA

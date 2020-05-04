@@ -32,7 +32,7 @@ text4 = 'pandemia'
 df = pd.read_csv('account.csv')
 
 
-# for each csv row 
+# for each account
 for index, row in df.iterrows():
     
     # take data
@@ -47,7 +47,7 @@ for index, row in df.iterrows():
                        tweepy.Cursor(api.user_timeline, id = account, since_id = last_tweet_id,
                                      exclude_replies = True).items(max_tweets)]
     
-    # cycle
+    # for each tweet
     for idx, i in enumerate(searched_tweets):
         tweet = api.get_status(i, tweet_mode = 'extended')  # all the text
         tweetText = tweet.full_text   # take text
@@ -61,12 +61,5 @@ for index, row in df.iterrows():
                 # tweet!
                 api.retweet(i)
 
-# write output with last tweet
+# rewrite account.csv with last id tweet updated
 df.to_csv('account.csv', index=False)
-
-
-
-
-
-
-

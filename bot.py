@@ -26,6 +26,7 @@ api = tweepy.API(auth)
 text1 = 'coronavirus'
 text2 = 'covid'
 text3 = 'lockdown'
+text4 = 'pandemia'
 
 # read file
 df = pd.read_csv('account.csv')
@@ -55,7 +56,8 @@ for index, row in df.iterrows():
         # filter only covid tweets and exclude retweets
         if not(tweetText.startswith('rt')) and (tweetText.find(text1) + 
                                                 tweetText.find(text2) + 
-                                                tweetText.find(text3)) > -3:
+                                                tweetText.find(text3) + 
+                                                tweetText.find(text4)) > -4:
                 # tweet!
                 api.retweet(i)
 

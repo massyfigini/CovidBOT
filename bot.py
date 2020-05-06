@@ -22,7 +22,7 @@ auth.set_access_token(A_TOKEN, A_TOKEN_SECRET)
 # Create API object
 api = tweepy.API(auth)
 
-# serch for covid
+# search for covid
 text1 = 'coronavirus'
 text2 = 'covid'
 text3 = 'lockdown'

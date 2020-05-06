@@ -22,25 +22,27 @@ auth.set_access_token(A_TOKEN, A_TOKEN_SECRET)
 # Create API object
 api = tweepy.API(auth)
 
-# serach for covid
+# serch for covid
 text1 = 'coronavirus'
 text2 = 'covid'
 text3 = 'lockdown'
 text4 = 'pandemia'
 
+text = [text1, text2, text3, text4]
+
 # read file
 df = pd.read_csv('account.csv')
 
 
-# for each account
+# for each row of my csv
 for index, row in df.iterrows():
     
     # take data
     account = row['Account']
     last_tweet_id = row['LastTweetID']
     
-    # tweet number limit
-    max_tweets = 100
+    # tweet limit
+    max_tweets = 1000
     
     # take all user tweets
     searched_tweets = [status.id for status in 
@@ -54,12 +56,9 @@ for index, row in df.iterrows():
         tweetText = tweetText.lower()   # lowercase
         if idx == 0: df.iloc[index,3] = tweet.id   # last retweeted id
         # filter only covid tweets and exclude retweets
-        if not(tweetText.startswith('rt')) and (tweetText.find(text1) + 
-                                                tweetText.find(text2) + 
-                                                tweetText.find(text3) + 
-                                                tweetText.find(text4)) > -4:
-                # tweet!
-                api.retweet(i)
+        if not(tweetText.startswith('rt')) and any(x in tweetText for x in text):
+            # tweet!    
+            api.retweet(i)
 
 # rewrite account.csv with last id tweet updated
 df.to_csv('account.csv', index=False)

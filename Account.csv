@@ -1,60 +1,62 @@
 Role,Who,Account,LastTweetID
-Primo Ministro,Giuseppe Conte,GiuseppeConteIT,1256134759060774913
-Protezione Civile,Protezione Civile Nazionale,DPCgov,1256618276152586248
-Presidenza del Consiglio,Presidenza del Consiglio,Palazzo_Chigi,1256613423992975362
-Presidenza della Repubblica,Presidenza della Repubblica,Quirinale,1256131323581870086
-Camera dei Deputati,Camera dei Deputati,Montecitorio,1255868363668107267
-Senato della Repubblica,Senato della Repubblica,SenatoStampa,1256846101518450689
-Sottosegretario alla Presidenza del Consiglio,Riccardo Fraccaro,riccardo_fra,1255104852109254656
-Ministro degli Esteri,Luigi Di Maio,luigidimaio,1256664301059936256
-Ministro dell Economia e delle Finanze,Roberto Gualtieri,gualtierieurope,1256259738410594304
-Ministero dell Economia e delle Finanze,Ministero dell Economia e delle Finanze,MEF_GOV,1256508254638784512
-Ministero dello Sviluppo Economico,Ministero dello Sviluppo Economico,MISE_GOV,1256222543444348930
-Ministero del Lavoro,Ministero del Lavoro,MinLavoro,1256621924358279168
-Ministero delle Infrastrutture e dei Trasporti,Ministero delle Infrastrutture e dei Trasporti,mitgov,1256196828414042112
-Ministero della Giustizia,Ministero della Giustizia,minGiustizia,1255903233362583552
-Ministero della Difesa,Ministero della Difesa,MinisteroDifesa,1256240507992395785
-Ministero dell Interno,Ministero dell Interno,Viminale,1256620301913374720
-Ministero dell Istruzione,Ministero dell Istruzione,MIsocialTW,1256592082979958784
-Rappresentanza in Italia della Commissione Europea,Rappresentanza in Italia della Commissione Europea,europainitalia,1256592197035704321
-Ministro della Giustizia,Alfonso Bonafede,AlfonsoBonafede,1255838875404173313
-Ministro della Difesa,Lorenzo Guerini,guerini_lorenzo,1256156223847706629
-Ministro dello Sviluppo Economico,Stefano Patuanelli,SPatuanelli,1250781409800785921
-Ministro del Lavoro e delle Politiche Sociali,Nunzia Catalfo,CatalfoNunzia,1256227511505235969
-Ministro per le pari opportunita e la famiglia,Elena Bonetti,elenabonetti,1256681549837283328
-Ministro delle Infrastrutture e dei Trasporti,Paola De Micheli,paola_demicheli,1256160902480625665
-Ministro della Salute,Roberto Speranza,robersperanza,1256144871192133632
-Ministero della Salute,Ministero della Salute,MinisteroSalute,1256631914414383105
-Ministro dei beni e delle attivita culturali e del turismo,Ministro dei beni e delle attivita culturali e del turismo,dariofrance,1255850847403155457
-Ministro dell Istruzione dell universita e della ricerca,Lucia Azzolina,AzzolinaLucia,1256862642351812608
-Ministro per il Sud,Giuseppe Provenzano,peppeprovenzano,1255872487407194113
-Ministro dell Ambiente,Sergio Costa,SergioCosta_min,1256255326216691713
-Ministro per gli Affari Europei,Enzo Amendola,amendolaenzo,1256494627944890368
-Ministro per la Pubblica Amministrazione,Fabiana Dadone,DadoneFabiana,1256859960123809798
-Ministro per gli Affari Regionali,Francesco Boccia,F_Boccia,1256609838685204480
-Ministro delle Politiche Agricole,Teresa Bellanova,TeresaBellanova,1256851535344087041
-Ministro per i Rapporti con il Parlamento e le Riforme,Federico Dinca,FedericoDinca,1256562290901606400
-Ministro dell Innovazione Tecnologica e Digitalizzazione,Paola Pisano,PaolaPisano_Min,1256206662299455488
-Ministro per le Politiche Giovanili e lo Sport,Vincenzo Spadafora,vinspadafora,1255927096431558656
-Ministero per i Beni e le Attivita Culturali e del Turismo,Ministero per i Beni e le Attivita Culturali e del Turismo,_MiBACT,1256860878105915392
-Ministero dell Ambiente del Territorio e del Mare,Ministero dell Ambiente del Territorio e del Mare,minambienteIT,1256535732346290176
-Ministero per l Innovazione Tecnologica e la Digitalizzazione,Ministero per l Innovazione Tecnologica e la Digitalizzazione,InnovazioneGov,1256241433998176256
-Ministero delle Politiche Agricole Alimentari e Forestali,Ministero delle Politiche Agricole Alimentari e Forestali,Mipaaf_,1256598821167038465
-Regione Valle d Aosta,Regione Valle d Aosta,ustampavda,1256866915869433856
-Regione Piemonte,Regione Piemonte,regionepiemonte,1256843768004775938
-Regione Piemonte 2,US Regione Piemonte,PiemonteInforma,1256678099711856640
-Regione Liguria,Regione Liguria,RegLiguria,1256601295781351426
-Regione Lombardia,Regione Lombardia,RegLombardia,1256841079678271488
-Regione Trentino Alto Adige 1,Provincia Autonoma di Trento,ProvinciaTrento,1256662108890173441
-Regione Trentino Alto Adige 2,Provincia Autonoma di Bolzano,ProvinciaBZ,1256589197642776577
-Regione Veneto,Regione Veneto,RegioneVeneto,1256820864215134208
-Regione Friuli Venezia Giulia,Regione Friuli Venezia Giulia,regioneFVGit,1245751629141413891
-Regione Emilia Romagna,Regione Emilia Romagna,RegioneER,1256619824597401603
-Regione Toscana,Regione Toscana,regionetoscana,1256848489516019715
-Regione Umbria,Regione Umbria,RegioneUmbria,1256871613099913216
-Regione Marche,Regione Marche,RegioneMarcheIT,1256123526207156224
-Regione Lazio,Regione Lazio,RegioneLazio,1256683646490161154
-Regione Abruzzo,Regione Abruzzo,Regione_Abruzzo,1256598230126780417
-Regione Campania,Regione Campania,Reg_Campania,1223896920764112896
+Primo Ministro,Giuseppe Conte,GiuseppeConteIT,1294272745879019521
+Protezione Civile,Protezione Civile Nazionale,DPCgov,1295008391459491842
+Presidenza del Consiglio,Presidenza del Consiglio,Palazzo_Chigi,1294289082332385280
+Presidenza della Repubblica,Presidenza della Repubblica,Quirinale,1292437427596988418
+Camera dei Deputati,Camera dei Deputati,Montecitorio,1294214575034949633
+Senato della Repubblica,Senato della Repubblica,SenatoStampa,1294889721152319494
+Sottosegretario alla Presidenza del Consiglio,Riccardo Fraccaro,riccardo_fra,1294927228657074176
+Ministro degli Esteri,Luigi Di Maio,luigidimaio,1294185094161235969
+Ministro dell Economia e delle Finanze,Roberto Gualtieri,gualtierieurope,1292870609706328071
+Ministero dell Economia e delle Finanze,Ministero dell Economia e delle Finanze,MEF_GOV,1293530459507490819
+Ministero dello Sviluppo Economico,Ministero dello Sviluppo Economico,MISE_GOV,1294273653148995584
+Ministero del Lavoro,Ministero del Lavoro,MinLavoro,1294613084858974209
+Ministero delle Infrastrutture e dei Trasporti,Ministero delle Infrastrutture e dei Trasporti,mitgov,1294618419938164739
+Ministero della Giustizia,Ministero della Giustizia,minGiustizia,1294240286458208258
+Ministero della Difesa,Ministero della Difesa,MinisteroDifesa,1294519523954036743
+Ministero dell Interno,Ministero dell Interno,Viminale,1294631872497164288
+Ministero dell Istruzione,Ministero dell Istruzione,MIsocialTW,1294570869369561089
+Rappresentanza in Italia della Commissione Europea,Rappresentanza in Italia della Commissione Europea,europainitalia,1294921841719549953
+Ministro della Giustizia,Alfonso Bonafede,AlfonsoBonafede,1294283897455468546
+Ministro della Difesa,Lorenzo Guerini,guerini_lorenzo,1294938430573613056
+Ministro dello Sviluppo Economico,Stefano Patuanelli,SPatuanelli,1291443196040486912
+Ministro del Lavoro e delle Politiche Sociali,Nunzia Catalfo,CatalfoNunzia,1294677113312862210
+Ministro per le pari opportunita e la famiglia,Elena Bonetti,elenabonetti,1294202949795745792
+Ministro delle Infrastrutture e dei Trasporti,Paola De Micheli,paola_demicheli,1294672445790654465
+Ministro della Salute,Roberto Speranza,robersperanza,1294655224896983041
+Ministero della Salute,Ministero della Salute,MinisteroSalute,1294665891356049410
+Ministro dei beni e delle attivita culturali e del turismo,Ministro dei beni e delle attivita culturali e del turismo,dariofrance,1292835452546932737
+Ministro dell Istruzione dell universita e della ricerca,Lucia Azzolina,AzzolinaLucia,1294337118878261250
+Ministro per il Sud,Giuseppe Provenzano,peppeprovenzano,1294015972534345728
+Ministro dell Ambiente,Sergio Costa,SergioCosta_min,1294270538748133377
+Ministro per gli Affari Europei,Enzo Amendola,amendolaenzo,1294556544110137345
+Ministro per la Pubblica Amministrazione,Fabiana Dadone,DadoneFabiana,1294194274951663617
+Ministro per gli Affari Regionali,Francesco Boccia,F_Boccia,1294205143446163456
+Ministro delle Politiche Agricole,Teresa Bellanova,TeresaBellanova,1294685004786737152
+Ministro per i Rapporti con il Parlamento e le Riforme,Federico Dinca,FedericoDinca,1294689269047590918
+Ministro dell Innovazione Tecnologica e Digitalizzazione,Paola Pisano,PaolaPisano_Min,1294173180706332672
+Ministro per le Politiche Giovanili e lo Sport,Vincenzo Spadafora,vinspadafora,1292389255159910401
+Ministero per i Beni e le Attivita Culturali e del Turismo,Ministero per i Beni e le Attivita Culturali e del Turismo,_MiBACT,1294571337852256257
+Ministero dell Ambiente del Territorio e del Mare,Ministero dell Ambiente del Territorio e del Mare,minambienteIT,1294261706458357762
+Ministero per l Innovazione Tecnologica e la Digitalizzazione,Ministero per l Innovazione Tecnologica e la Digitalizzazione,InnovazioneGov,1293954081678032897
+Ministero delle Politiche Agricole Alimentari e Forestali,Ministero delle Politiche Agricole Alimentari e Forestali,Mipaaf_,1294333156351508490
+Regione Valle d Aosta,Regione Valle d Aosta,ustampavda,1294355418014195713
+Regione Piemonte,Regione Piemonte,regionepiemonte,1294982743315619841
+Regione Piemonte 2,US Regione Piemonte,PiemonteInforma,1294681172824469504
+Regione Liguria,Regione Liguria,RegLiguria,1294938683414544384
+Regione Lombardia,Regione Lombardia,RegLombardia,1294987592979697665
+Regione Trentino Alto Adige 1,Provincia Autonoma di Trento,ProvinciaTrento,1294311799538548736
+Regione Trentino Alto Adige 2,Provincia Autonoma di Bolzano,ProvinciaBZ,1294264211162497024
+Regione Veneto,Regione Veneto,RegioneVeneto,1294296322066063363
+Regione Friuli Venezia Giulia,Regione Friuli Venezia Giulia,regioneFVGit,1263461433519550464
+Regione Emilia Romagna,Regione Emilia Romagna,RegioneER,1295001697299894273
+Regione Toscana,Regione Toscana,regionetoscana,1294914311639511041
+Regione Umbria,Regione Umbria,RegioneUmbria,1294220073725558784
+Regione Marche,Regione Marche,RegioneMarcheIT,1274295112256847872
+Regione Lazio,Regione Lazio,RegioneLazio,1294998226291044355
+Regione Lazio 2,Assessorato Salute Regione Lazio,SaluteLazio,1295000005313531904
+Regione Abruzzo,Regione Abruzzo,Regione_Abruzzo,1294210405267648512
+Regione Campania,Regione Campania,Reg_Campania,1290296466737512449
 Regione Puglia,Regione Puglia,RegionePuglia,1250465035240923137
-Istituto Superiore della Sanita,Istituto Superiore della Sanita,istsupsan,1256587123832094720
+Regione Sicilia,Regione Sicilia,Regione_Sicilia,1294545600868909056
+Istituto Superiore della Sanita,Istituto Superiore della Sanita,istsupsan,1293568023106916352

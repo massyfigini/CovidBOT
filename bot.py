@@ -49,16 +49,22 @@ for index, row in df.iterrows():
                        tweepy.Cursor(api.user_timeline, id = account, since_id = last_tweet_id,
                                      exclude_replies = True).items(max_tweets)]
     
-    # for each tweet
-    for idx, i in enumerate(searched_tweets):
-        tweet = api.get_status(i, tweet_mode = 'extended')  # all the text
-        tweetText = tweet.full_text   # take text
-        tweetText = tweetText.lower()   # lowercase
-        if idx == 0: df.iloc[index,3] = tweet.id   # last retweeted id
-        # filter only covid tweets and exclude retweets
-        if not(tweetText.startswith('rt')) and any(x in tweetText for x in text):
-            # tweet!    
-            api.retweet(i)
+    try:
+        # for each tweet
+        for idx, i in enumerate(searched_tweets):
+            tweet = api.get_status(i, tweet_mode = 'extended')  # all the text
+            tweetText = tweet.full_text   # take text
+            tweetText = tweetText.lower()   # lowercase
+            if idx == 0: df.iloc[index,3] = tweet.id   # last retweeted id
+            # filter only covid tweets and exclude retweets
+            if not(tweetText.startswith('rt')) and any(x in tweetText for x in text):
+                # tweet!    
+                api.retweet(i)
+             
+    except:
+        # open a file to append
+        Err = open("Error.txt", "a", encoding="utf-8")
+        Err.write(" ACCOUNT: " + account + ". TWEET IN ERROR: " + tweetText)
 
 # rewrite account.csv with last id tweet updated
 df.to_csv('account.csv', index=False)

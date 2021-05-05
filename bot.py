@@ -33,7 +33,6 @@ text = [text1, text2, text3, text4]
 # read file
 df = pd.read_csv('account.csv')
 
-
 # for each row of my csv
 for index, row in df.iterrows():
     
@@ -44,10 +43,16 @@ for index, row in df.iterrows():
     # tweet limit
     max_tweets = 1000
     
-    # take all user tweets
-    searched_tweets = [status.id for status in 
-                       tweepy.Cursor(api.user_timeline, id = account, since_id = last_tweet_id,
-                                     exclude_replies = True).items(max_tweets)]
+    try:
+        # take all user tweets
+        searched_tweets = [status.id for status in 
+                        tweepy.Cursor(api.user_timeline, id = account, since_id = last_tweet_id,
+                                        exclude_replies = True).items(max_tweets)]
+    except:
+        # append in error file
+        Err = open("Error.txt", "a", encoding="utf-8")
+        Err.write(" ACCOUNT IN ERRORE: " + account + "\n")
+        raise
     
     try:
         # for each tweet
@@ -62,9 +67,10 @@ for index, row in df.iterrows():
                 api.retweet(i)
              
     except:
-        # open a file to append
+        # append in error file
         Err = open("Error.txt", "a", encoding="utf-8")
-        Err.write(" ACCOUNT: " + account + ". TWEET IN ERROR: " + tweetText)
+        Err.write("TWEET IN ERROR: " + tweetText + "\n")
+        raise
 
 # rewrite account.csv with last id tweet updated
 df.to_csv('account.csv', index=False)

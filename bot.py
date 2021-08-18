@@ -4,10 +4,12 @@ Created on Fri May 01 2020
 @author: massyfigini
 """
 
-C_KEY = "*******************"  
-C_SECRET = "**************************************************"  
-A_TOKEN = "***************************************************"  
-A_TOKEN_SECRET = "********************************************"  
+import config
+
+C_KEY = config.C_KEY
+C_SECRET = config.C_SECRET
+A_TOKEN = config.A_TOKEN
+A_TOKEN_SECRET = config.A_TOKEN_SECRET
 
 #pip install tweepy
 
@@ -32,6 +34,7 @@ text = [text1, text2, text3, text4]
 
 # read file
 df = pd.read_csv('account.csv')
+
 
 # for each row of my csv
 for index, row in df.iterrows():

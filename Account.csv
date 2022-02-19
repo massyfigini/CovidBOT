@@ -1,65 +1,69 @@
 Role,Who,Account,LastTweetID
-Protezione Civile,Protezione Civile Nazionale,DPCgov,1415317157051658244
-Presidenza del Consiglio,Presidenza del Consiglio,Palazzo_Chigi,1415594583061303297
-Presidenza della Repubblica,Presidenza della Repubblica,Quirinale,1415269285920968705
-Camera dei Deputati,Camera dei Deputati,Montecitorio,1415581905789935622
-Senato della Repubblica,Senato della Repubblica,SenatoStampa,1415579080712507392
-Ministro degli Esteri,Luigi Di Maio,luigidimaio,1415396155572301830
-Ministero dell Economia e delle Finanze,Ministero dell Economia e delle Finanze,MEF_GOV,1415306669588946944
-Ministero dello Sviluppo Economico,Ministero dello Sviluppo Economico,MISE_GOV,1415266903598174209
-Ministero del Lavoro,Ministero del Lavoro,MinLavoro,1415343831776645126
-Ministero delle Infrastrutture e dei Trasporti,Ministero delle Infrastrutture e dei Trasporti,mims_gov,1415244677255778306
-Ministero della Giustizia,Ministero della Giustizia,minGiustizia,1414991783461855237
-Ministero della Difesa,Ministero della Difesa,MinisteroDifesa,1415374066274406403
-Ministero dell Interno,Ministero dell Interno,Viminale,1415379237381545988
-Ministero dell Istruzione,Ministero dell Istruzione,MIsocialTW,1415290308963835904
-Rappresentanza in Italia della Commissione Europea,Rappresentanza in Italia della Commissione Europea,europainitalia,1415592636124221442
-Ministro della Difesa,Lorenzo Guerini,guerini_lorenzo,1415366045582471172
-Ministro del Lavoro e delle Politiche Sociali,Andrea Orlando,AndreaOrlandosp,1415344134089584642
-Ministro per le pari opportunita e la famiglia,Elena Bonetti,elenabonetti,1415402779183665156
-Ministro della Salute,Roberto Speranza,robersperanza,1415228951384018945
-Ministero della Salute,Ministero della Salute,MinisteroSalute,1415334715549274114
-Ministro dei beni e delle attivita culturali,Dario Franceschini,dariofrance,1415366026741567490
-Ministro dell Istruzione,Patrizio Bianchi,patriziob1952,1398976909497847815
-Ministro per il Sud,Mara Carfagna,mara_carfagna,1415328980450881539
+Protezione Civile,Protezione Civile Nazionale,DPCgov,1494944844795449348
+Presidenza del Consiglio,Presidenza del Consiglio,Palazzo_Chigi,1494765250566139906
+Presidenza della Repubblica,Presidenza della Repubblica,Quirinale,1492875282369363969
+Camera dei Deputati,Camera dei Deputati,Montecitorio,1494959946978500608
+Senato della Repubblica,Senato della Repubblica,SenatoStampa,1494944850600415235
+Ministro degli Esteri,Luigi Di Maio,luigidimaio,1494960414890807297
+Ministero dell Economia e delle Finanze,Ministero dell Economia e delle Finanze,MEF_GOV,1494730399880302605
+Ministero dello Sviluppo Economico,Ministero dello Sviluppo Economico,MISE_GOV,1494759424321363976
+Ministero del Lavoro,Ministero del Lavoro,MinLavoro,1494764472950476801
+Ministero delle Infrastrutture e dei Trasporti,Ministero delle Infrastrutture e dei Trasporti,mims_gov,1494703883712700417
+Ministero della Giustizia,Ministero della Giustizia,minGiustizia,1494696198774693895
+Ministero della Difesa,Ministero della Difesa,MinisteroDifesa,1494975994716901377
+Ministero dell Interno,Ministero dell Interno,Viminale,1494760481038475266
+Ministero dell Istruzione,Ministero dell Istruzione,MIsocialTW,1494724422414094339
+Rappresentanza in Italia della Commissione Europea,Rappresentanza in Italia della Commissione Europea,europainitalia,1494975047727030272
+Ministro della Difesa,Lorenzo Guerini,guerini_lorenzo,1494722322640609280
+Ministro del Lavoro e delle Politiche Sociali,Andrea Orlando,AndreaOrlandosp,1494731776899661826
+Ministro per le pari opportunita e la famiglia,Elena Bonetti,elenabonetti,1494921091990671360
+Ministro della Salute,Roberto Speranza,robersperanza,1494971309800968195
+Ministero della Salute,Ministero della Salute,MinisteroSalute,1494748288486150151
+Ministro dei beni e delle attivita culturali,Dario Franceschini,dariofrance,1493955135675981825
+Ministro dell Istruzione,Patrizio Bianchi,@ProfPBianchi,1494271072505577473
+Ministro per il Sud,Mara Carfagna,mara_carfagna,1494978569910591491
 Ministro dell Ambiente e Transizione Ecologica,Roberto Cingolani,LDO_CTIO,1398976909497847815
-Ministro per gli Affari Generali e le Autonomie,Mariastella Gelmini,msgelmini,1415576028903260161
-Ministro per la Pubblica Amministrazione,Renato Brunetta,renatobrunetta,1415538405358948352
-Ministro delle Politiche Agricole,Stefano Patuanelli,SPatuanelli,1414265120931426305
-Ministro per i Rapporti con il Parlamento,Federico Dinca,FedericoDinca,1414645229538402316
-Ministro dell Innovazione Tecnologica e Transizione Digitale,Vittorio Colao,vitt61,1398976909497847815
-Ministro per le Politiche Giovanili,Fabiana Dadone,DadoneFabiana,1415254368027385859
-Ministero della Cultura, Ministero della Cultura,MiC_Italia,1415581903634190339
-Ministero dell Ambiente e della Transizione Ecologica,Ministero dell Ambiente e della Transizione Ecologica,MiTE_IT,1414922695452545031
-Ministero per l Innovazione Tecnologica e la Digitalizzazione,Ministero per l Innovazione Tecnologica e la Digitalizzazione,InnovazioneGov,1415228029023006722
-Ministero delle Politiche Agricole Alimentari e Forestali,Ministero delle Politiche Agricole Alimentari e Forestali,Mipaaf_,1415355412870750212
-Regione Valle d Aosta,Regione Valle d Aosta,ustampavda,1415565716649086977
-Regione Piemonte,Regione Piemonte,regionepiemonte,1415585038041862150
-Regione Liguria,Regione Liguria,RegLiguria,1415592463927025664
-Regione Lombardia,Regione Lombardia,RegLombardia,1415341469204979713
-Regione Trentino Alto Adige 1,Provincia Autonoma di Trento,ProvinciaTrento,1415366740310208518
-Regione Trentino Alto Adige 2,Provincia Autonoma di Bolzano,ProvinciaBZ,1414955812938731525
-Regione Veneto,Regione Veneto,RegioneVeneto,1415269187493285888
-Regione Friuli Venezia Giulia,Regione Friuli Venezia Giulia,regioneFVGit,1415591204520177666
-Regione Emilia Romagna,Regione Emilia Romagna,RegioneER,1415361006046519296
-Regione Toscana,Regione Toscana,regionetoscana,1415580015698317312
-Regione Umbria,Regione Umbria,RegioneUmbria,1398976909497847815
-Regione Marche,Regione Marche,RegioneMarcheIT,1415308963126648832
-Regione Lazio,Regione Lazio,RegioneLazio,1415323609472671747
-Regione Abruzzo,Regione Abruzzo,Regione_Abruzzo,1415324445158301696
-Regione Campania,Regione Campania,Reg_Campania,1410646676566593540
-Regione Puglia,Regione Puglia,RegionePuglia,1415595045835640832
-Regione Sicilia,Regione Sicilia,Regione_Sicilia,1415590344876560387
-Istituto Superiore della Sanita,Istituto Superiore della Sanita,istsupsan,1415273713663188992
+Ministro per gli Affari Generali e le Autonomie,Mariastella Gelmini,msgelmini,1494250054357594112
+Ministro per la Pubblica Amministrazione,Renato Brunetta,renatobrunetta,1494749408033972240
+Ministro per i Rapporti con il Parlamento,Federico Dinca,FedericoDinca,1494963131738697729
+Ministro dell Innovazione Tecnologica e Transizione Digitale,Vittorio Colao,vitt61,1494096135019024390
+Ministro per le Politiche Giovanili,Fabiana Dadone,DadoneFabiana,1494391196105560064
+Ministero della Cultura, Ministero della Cultura,MiC_Italia,1494733454939811840
+Ministero dell Ambiente e della Transizione Ecologica,Ministero dell Ambiente e della Transizione Ecologica,MiTE_IT,1494771705507684359
+Ministero per l Innovazione Tecnologica e la Digitalizzazione,Ministero per l Innovazione Tecnologica e la Digitalizzazione,InnovazioneGov,1494703349584654340
+Ministero delle Politiche Agricole Alimentari e Forestali,Ministero delle Politiche Agricole Alimentari e Forestali,Mipaaf_,1494746857389625347
+Regione Valle d Aosta,Regione Valle d Aosta,ustampavda,1494717460825653248
+Regione Piemonte,Regione Piemonte,regionepiemonte,1494988129249411079
+Regione Liguria,Regione Liguria,RegLiguria,1494986115190771713
+Regione Lombardia,Regione Lombardia,RegLombardia,1494720056609198083
+Regione Trentino Alto Adige 1,Provincia Autonoma di Trento,ProvinciaTrento,1494989387444023297
+Regione Trentino Alto Adige 2,Provincia Autonoma di Bolzano,ProvinciaBZ,1493857808634327040
+Regione Veneto,Regione Veneto,RegioneVeneto,1494642854551031830
+Regione Friuli Venezia Giulia,Regione Friuli Venezia Giulia,regioneFVGit,1494944847072927753
+Regione Emilia Romagna,Regione Emilia Romagna,RegioneER,1494988521064460288
+Regione Toscana,Regione Toscana,regionetoscana,1443596748555837445
+Regione Umbria,Regione Umbria,RegioneUmbria,1493986638246129666
+Regione Marche,Regione Marche,RegioneMarcheIT,1494699221974462467
+Regione Lazio,Regione Lazio,RegioneLazio,1494649760220909573
+Regione Abruzzo,Regione Abruzzo,Regione_Abruzzo,1494699186402611200
+Regione Campania,Regione Campania,Reg_Campania,1455850736324075527
+Regione Puglia,Regione Puglia,RegionePuglia,1494705332219789312
+Regione Sicilia,Regione Sicilia,Regione_Sicilia,1494981770017660929
+Istituto Superiore della Sanita,Istituto Superiore della Sanita,istsupsan,1494958634312343553
 Ministro dell universita e della ricerca,Cristina Messa,MessaCristina,1398976909497847815
-Ministro del Turismo,Massimo Garavaglia,massimogara,1414927625630404610
-Ministro per le Politiche della Disabilita,Erika Stefani,erikastefani71,1415330250108686346
-Ministero degli Affari Esteri e della Cooperazione Internazionale,Ministero degli Affari Esteri e della Cooperazione Internazionale,ItalyMFA,1415400268137644036
-Polizia di Stato,Polizia di Stato,poliziadistato,1415562185430999044
-Esercito Italiano,Esercito Italiano,Esercito,1415373036887461892
-Agenzia per l'Italia Digitale,Agenzia per l'Italia Digitale,AgidGov,1415303771702374404
-Italia Turismo,Italia Turismo,Italia,1415568563671232513
-ENIT,Agenzia Nazionale del Turismo in Italia,ENIT_italia,1414895513518891010
-Ufficio in Italia del Parlamento europeo,Ufficio in Italia del Parlamento europeo,PE_Italia,1415348689309208578
-ONU Italia,Centro Regionale di Informazione delle Nazioni Unite,UNRIC_Italia,1415283564913086465
-UNICEF Italia,UNICEF Italia,UNICEF_Italia,1415018719743463427
+Ministro del Turismo,Massimo Garavaglia,massimogara,1494407374312022017
+Ministro per le Politiche della Disabilita,Erika Stefani,erikastefani71,1494597564414500873
+Ministero degli Affari Esteri e della Cooperazione Internazionale,Ministero degli Affari Esteri e della Cooperazione Internazionale,ItalyMFA,1494954543083368449
+Polizia di Stato,Polizia di Stato,poliziadistato,1494977354279665675
+Esercito Italiano,Esercito Italiano,Esercito,1494980507364474889
+Agenzia per l'Italia Digitale,Agenzia per l'Italia Digitale,AgidGov,1494629972308279296
+Italia Turismo,Italia Turismo,Italia,1494944851204481026
+ENIT,Agenzia Nazionale del Turismo in Italia,ENIT_italia,1494585727778234369
+Ufficio in Italia del Parlamento europeo,Ufficio in Italia del Parlamento europeo,PE_Italia,1494673062154932230
+ONU Italia,Centro Regionale di Informazione delle Nazioni Unite,UNRIC_Italia,1494230573258268673
+UNICEF Italia,UNICEF Italia,UNICEF_Italia,1494743517624614913
+Dipartimento per gli Affari Regionali,Dipartimento per gli Affari Regionali,DipAffRegionali,1491438435680538625
+Dipartimento Politiche Giovanili e Servizio Civile,Dipartimento Politiche Giovanili e Servizio Civile,pcm_giovani_scu,1491774280790687744
+Dipartimento Famiglia,Dipartimento Famiglia,FamigliaGov,1494641141358202885
+Dipartimento per i Rapporti con il Parlamento,Dipartimento per i Rapporti con il Parlamento,RapportiParlam,1491352259766013952
+Dipartimento della funzione pubblica,Dipartimento della funzione pubblica,FunzPub,1494690283254128641
